@@ -1,0 +1,14 @@
+.item-div {
+    background-color: rgb(206, 239, 250);
+    border: 2px solid black;
+    width: 60vw;
+    margin-bottom: 1rem;
+    /* border-radius: 2%; */
+    box-shadow: 10px 5px 5px rgb(87, 87, 87);
+    padding-bottom: 0.8rem;
+}
+
+.item-img {
+    height: 15rem;
+    width: 15rem;
+}
